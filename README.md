@@ -1,5 +1,5 @@
 # python-api-challenge
-![Image](/WeatherPy/2023-04-10.png)
+![Image](/WeatherPy/map_1.png)
 ## WeatherPY
   
   In this deliverable, a Python script to visualize the weather of over 500 cities of varying distances from the equator was created. It makes use of the citipy Python library , the OpenWeatherMap APILinks for this.
